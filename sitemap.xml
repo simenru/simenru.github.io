@@ -8,6 +8,18 @@
   </url>
   
   <url>
+    <loc>https://simenru.github.io/posts/</loc>
+    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://simenru.github.io/</loc>
+    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://simenru.github.io/posts/2018-07-09-the-wizard-and-the-prophet/</loc>
     <lastmod>2018-07-09T21:00:00+02:00</lastmod>
   </url>
@@ -25,6 +37,12 @@
   <url>
     <loc>https://simenru.github.io/microposts/2018-05-06t2123/</loc>
     <lastmod>2018-05-06T19:24:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simenru.github.io/microposts/</loc>
+    <lastmod>2018-05-06T19:24:28+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -58,8 +76,20 @@
   </url>
   
   <url>
+    <loc>https://simenru.github.io/categories/</loc>
+    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://simenru.github.io/posts/2017-10-08-skogtur/</loc>
     <lastmod>2017-10-08T18:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simenru.github.io/categories/foto/</loc>
+    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,6 +103,12 @@
   </url>
   
   <url>
+    <loc>https://simenru.github.io/categories/l%C3%B8p/</loc>
+    <lastmod>2016-06-26T22:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://simenru.github.io/posts/2016-06-11-ultrabirken/</loc>
     <lastmod>2016-06-11T22:00:00+02:00</lastmod>
   </url>
@@ -80,6 +116,12 @@
   <url>
     <loc>https://simenru.github.io/posts/2016-05-22-ecotrail-oslo/</loc>
     <lastmod>2016-05-22T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simenru.github.io/categories/trening/</loc>
+    <lastmod>2016-01-24T22:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -108,37 +150,14 @@
   </url>
   
   <url>
+    <loc>https://simenru.github.io/categories/tur/</loc>
+    <lastmod>2015-07-25T22:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://simenru.github.io/posts/2015-07-19-norefjell/</loc>
     <lastmod>2015-07-19T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/categories/foto/</loc>
-    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/categories/l%C3%B8p/</loc>
-    <lastmod>2016-06-26T22:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/microposts/</loc>
-    <lastmod>2018-05-06T19:24:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/posts/</loc>
-    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -148,24 +167,6 @@
   
   <url>
     <loc>https://simenru.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/</loc>
-    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/categories/trening/</loc>
-    <lastmod>2016-01-24T22:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://simenru.github.io/categories/tur/</loc>
-    <lastmod>2015-07-25T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
