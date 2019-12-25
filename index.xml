@@ -1,44 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@simenru’s To steg fram - To steg fram</title>
+    <title> </title>
     <link>https://www.rustad.co/</link>
-    <description>All entries in To steg fram on To steg fram</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    <lastBuildDate>Fri, 01 Nov 2019 17:29:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2019-11-01t1829/</link>
-        <pubDate>Fri, 01 Nov 2019 17:29:00 +0000</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2019-11-01t1829/</guid>
-        <description>&lt;p&gt;Sitter og ser &lt;a href=&#34;https://twitter.com/MagnusCarlsen&#34;&gt;Magnus Carlsen&lt;/a&gt; spille
-Fischer-sjakk. Det er én ting jeg er litt overrasket over å ikke ha hørt fra
-kommentatorene enda, som er ganske fundamental for å forstå hvordan &amp;ldquo;pila&amp;rdquo; egentlig
-beveger seg: Anta at det er hvit sin tur til å trekke. Etter trekket kan stillingen enten
-være like fordelaktig for hvit, eller mindre fordelaktig (siden analysen av stillingen
-antar at begge spillere alltid gjør sitt beste trekk). Med andre ord, når hvit gjør et
-trekk som analysen viser at forbedrer hans stilling, betyr det bare at datamaskinen nå
-har kapasitet til å se langt nok frem i spillet.&lt;/p&gt;
+    <author>Simen Ellingsen Rustad</author>
+    <rights>(C) 2019</rights>
+    <updated>2019-11-01 17:29:00 &#43;0000 UTC</updated>
 
-&lt;p&gt;For å sette det på spissen: I sjakk (eller egentlig i alle deterministiske spill med
-fullstendig informasjon) kan du aldri gjøre gode trekk, du kan bare unngå å gjøre dårlige.&lt;/p&gt;
-</description>
-      </item>
-      
     
-      
       <item>
         <title>Jotunheimen med Eirik</title>
-        <link>https://www.rustad.co/posts/2018-08-06-jotunheimen/</link>
-        <pubDate>Mon, 06 Aug 2018 12:44:14 +0000</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2018-08-06-jotunheimen/</guid>
+        <link>https://www.rustad.co/2018/08/06/jotunheimen-med-eirik/</link>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2018/08/06/jotunheimen-med-eirik/</guid>
         <description>
 
 &lt;p&gt;Jeg og Eirik hadde planlagt en fjelltur ganske lenge, og låste ned helga litt før starten
@@ -351,15 +326,13 @@ karer på &lt;a href=&#34;http://www.munkekroen.com&#34;&gt;Munkekroen&lt;/a&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/1719279178&#34;&gt;Strava-aktivitet&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Bok: The Wizard and the Prophet</title>
-        <link>https://www.rustad.co/posts/2018-07-09-the-wizard-and-the-prophet/</link>
-        <pubDate>Mon, 09 Jul 2018 21:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2018-07-09-the-wizard-and-the-prophet/</guid>
+        <link>https://www.rustad.co/2018/07/09/bok-the-wizard-and-the-prophet/</link>
+        <pubDate>Mon, 09 Jul 2018 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2018/07/09/bok-the-wizard-and-the-prophet/</guid>
         <description>&lt;p&gt;Jeg fikk lest ferdig Charles C. Manns &lt;a href=&#34;https://www.amazon.com/Wizard-Prophet-Remarkable-Scientists-Tomorrows/dp/0307961699&#34;&gt;The Wizard and the Prophet&lt;/a&gt;
 i løpet av en fjelltur. Boka har vært diskutert &lt;a href=&#34;https://kottke.org/18/03/i-recommend-that-you-read-the-wizard-and-the-prophet&#34;&gt;flere&lt;/a&gt;
 &lt;a href=&#34;https://marginalrevolution.com/marginalrevolution/2018/01/the-wizard-and-the-prophet-2.html&#34;&gt;steder&lt;/a&gt;
@@ -396,15 +369,13 @@ build in a world of 10 billion only multiplies the difficulty.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Hjemmetid</title>
-        <link>https://www.rustad.co/posts/2018-06-01-hjemmetid/</link>
-        <pubDate>Fri, 01 Jun 2018 15:54:25 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2018-06-01-hjemmetid/</guid>
+        <link>https://www.rustad.co/2018/06/01/hjemmetid/</link>
+        <pubDate>Fri, 01 Jun 2018 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2018/06/01/hjemmetid/</guid>
         <description>&lt;p&gt;&lt;div&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2018-06-01_001.jpg&#34; style=&#34;max-width:35.6%; margin-bottom:0.6%&#34;&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2018-06-01_002.jpg&#34; style=&#34;max-width:63.3%; margin-bottom:0.6%&#34;&gt;
@@ -412,15 +383,13 @@ build in a world of 10 billion only multiplies the difficulty.&lt;/p&gt;
 Selv om det er litt slitsomt å være hjemme med en liten gutt, får jeg tatt meg noen fine turer også, og kost meg litt med kameraet.&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Soria Moria til Verden Ende 2018 - DNF</title>
-        <link>https://www.rustad.co/posts/2018-05-21-smve2018/</link>
-        <pubDate>Fri, 25 May 2018 20:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2018-05-21-smve2018/</guid>
+        <link>https://www.rustad.co/2018/05/25/soria-moria-til-verden-ende-2018-dnf/</link>
+        <pubDate>Fri, 25 May 2018 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2018/05/25/soria-moria-til-verden-ende-2018-dnf/</guid>
         <description>
 
 &lt;p&gt;&lt;a href=&#34;https://soriamoriatilverdensende.com&#34;&gt;Soria Moria til Verdens Ende&lt;/a&gt; trur jeg har appellert til meg helt siden jeg hørte navnet på løpet for første gang. &lt;a href=&#34;http://www.langtoglenge.com&#34;&gt;Einar og Mona&lt;/a&gt; startet opp løpet i fjor, og etter litt ekstra reklame fra Gunnar (som ble &lt;a href=&#34;https://soriamoriatilverdensende.com/no/about/results/results_2017_no.html&#34;&gt;nummer 2&lt;/a&gt; i den første utgaven) fristet det kanskje litt mer.&lt;/p&gt;
@@ -493,100 +462,23 @@ Selv om det er litt slitsomt å være hjemme med en liten gutt, får jeg tatt me
 &lt;/div&gt;
 </description>
       </item>
-      
     
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2018-05-06t2123/</link>
-        <pubDate>Sun, 06 May 2018 19:24:28 +0000</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2018-05-06t2123/</guid>
-        <description>&lt;p&gt;Føler jeg har tatt småbarnslivet inn over meg når jeg går for å legge meg klokka ti en
-lørdagskveld og følger jeg har vært oppe skikkelig seint.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2018-01-02t2215/</link>
-        <pubDate>Tue, 02 Jan 2018 22:15:47 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2018-01-02t2215/</guid>
-        <description>&lt;p&gt;Selv om jeg kom meg ut en tur i går, føler jeg treningsåret begynte i dag. Ny intervallform, 3x12min på sånn ca terskelfart (17.1km/h i dag). Skikkelig slit på slutten, men verdt det å ha gjennomført!&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
       <item>
         <title>Grilling</title>
-        <link>https://www.rustad.co/posts/2018-01-02-grilling/</link>
-        <pubDate>Tue, 02 Jan 2018 07:27:48 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2018-01-02-grilling/</guid>
+        <link>https://www.rustad.co/2018/01/02/grilling/</link>
+        <pubDate>Tue, 02 Jan 2018 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2018/01/02/grilling/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://www.rustad.co/img/2018-01-02_001.jpg&#34; alt=&#34;Pølser på bålet&#34; /&gt;
 Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det ut til over nyttår, men vi klarte å komme oss ut en tur takket være snille besteforeldre som stilte opp som barnevakter for minstemann.&lt;/p&gt;</description>
       </item>
-      
     
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2017-11-04t0935/</link>
-        <pubDate>Sat, 04 Nov 2017 09:35:03 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2017-11-04t0935/</guid>
-        <description>&lt;p&gt;Så kom høstkulda. Fem-seks kuldegrader på mårran i dag og haven er hvit av rim. Spent på hva kveldens nedbør kommer som.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2017-11-03t2214/</link>
-        <pubDate>Fri, 03 Nov 2017 22:14:23 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2017-11-03t2214/</guid>
-        <description>&lt;p&gt;Snøen ligger fortsatt skikkelig i høyden. Kom meg ut og rundt om Gjerdingsdammen, og langs Fjellsjøen var veien snødekt i skyggen, og kjørespora var isete. Skal ikke mye til før det er løyper fra Svartbekken for de ivrigste.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2017-11-02t2211/</link>
-        <pubDate>Thu, 02 Nov 2017 22:11:20 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2017-11-02t2211/</guid>
-        <description>&lt;p&gt;Blir stadig litt overraska over hva som går når man først kommer seg ut døra. Etter en fin efta med bading sammen med Einar karra jeg meg ut til tredemølla, og klarte til og med å gjennomføre mer enn planlagt! Veldig deilig med en sånn opptur.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title></title>
-        <link>https://www.rustad.co/microposts/2017-11-01t2155/</link>
-        <pubDate>Wed, 01 Nov 2017 21:55:27 +0100</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/microposts/2017-11-01t2155/</guid>
-        <description>&lt;p&gt;Føler jeg starta en treningssesong i dag. Veldig tidlig, men allikevel godt å kjenne at det er mulig å løpe en 20km uten å tømme seg helt.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
       <item>
         <title>Skogtur i høstvær</title>
-        <link>https://www.rustad.co/posts/2017-10-08-skogtur/</link>
-        <pubDate>Sun, 08 Oct 2017 18:45:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2017-10-08-skogtur/</guid>
+        <link>https://www.rustad.co/2017/10/08/skogtur-i-h%C3%B8stv%C3%A6r/</link>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2017/10/08/skogtur-i-h%C3%B8stv%C3%A6r/</guid>
         <description>&lt;div&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2017-10-08_001.jpg&#34; style=&#34;max-width:63.3%; margin-bottom:0.6%&#34;&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2017-10-08_002.jpg&#34; style=&#34;max-width:35.6%; margin-bottom:0.6%&#34;&gt;
@@ -594,15 +486,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 
 &lt;p&gt;Fikk en liten skogtur med Einar etter lunsj i dag i fint og deilig høstvær.&lt;/p&gt;</description>
       </item>
-      
     
-      
       <item>
         <title>Vinterferie</title>
-        <link>https://www.rustad.co/posts/2017-03-23-vinterferie/</link>
-        <pubDate>Thu, 23 Mar 2017 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2017-03-23-vinterferie/</guid>
+        <link>https://www.rustad.co/2017/03/23/vinterferie/</link>
+        <pubDate>Thu, 23 Mar 2017 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2017/03/23/vinterferie/</guid>
         <description>&lt;div&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2017-03-23_001.jpg&#34; style=&#34;max-width:35.6%; margin-bottom:0.6%&#34;&gt;
     &lt;img src=&#34;https://www.rustad.co/img/2017-03-23_002.jpg&#34; style=&#34;max-width:63.3%; margin-bottom:0.6%&#34;&gt;
@@ -615,15 +505,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 
 &lt;p&gt;Hadde en fin langhelg/vinterferie på fjellet for en måneds tid siden. Som tida flyr!&lt;/p&gt;</description>
       </item>
-      
     
-      
       <item>
         <title>Romeriksåsen på langs</title>
-        <link>https://www.rustad.co/posts/2016-06-26-romeriksasen-pa-langs/</link>
-        <pubDate>Sun, 26 Jun 2016 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2016-06-26-romeriksasen-pa-langs/</guid>
+        <link>https://www.rustad.co/2016/06/26/romeriks%C3%A5sen-p%C3%A5-langs/</link>
+        <pubDate>Sun, 26 Jun 2016 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2016/06/26/romeriks%C3%A5sen-p%C3%A5-langs/</guid>
         <description>&lt;p&gt;Romeriksåsen på Langs var det siste &amp;ldquo;tune up&amp;rdquo;-løpet før Hornindal Rundt for min del. I praksis tenkte jeg mest på løpet som en måte til å tvinge meg til å ha en ordentelig langtur før jeg går inn i nedtrappingsperioden. Sånn sett var målet for løpet (1) ikke bli skada, (2) løpe 50km, og (3) forhåpentligvis få litt bedre kontroll på matinntaket under lange turer og løp. Jeg syns jeg klarte å levere ganske greit på alle tre.&lt;/p&gt;
 
 &lt;p&gt;Punkt én på lista håpa jeg skulle gå ganske greit, men fikk allikevel en liten støkk i meg etter 14 kilometer. Var kanskje litt distrahert av å skulle spise, man klarte uansett unnskyldning å plante foten rett på en glatt stein, og flata ut og dunka begge knærne heller hardt i bakken. Etter å ha samla meg litt, blitt litt sint på meg sjøl for å være uoppmerksom, og vurdert om det var mulig å bryte her, kom jeg meg forsiktig på beina igjen. Først ville ikke venstrekneet bære noe vekt, og jeg halta forsiktig videre nedover, men det kom seg heldigvis etter 500 meter, og jeg kunne begynne å løpe igjen. Først veldig forsiktig, og så etter hvert i mer eller mindre normalt tempo. Kneet ga heldigvis ikke mer problemer, annet enn å være litt stivt nå i kveld.&lt;/p&gt;
@@ -635,15 +523,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 &lt;p&gt;Alt i alt, et greit løp gjennomført etter planen, og jeg føler meg ganske så fresh og fin etterpå, så det går forhåpentligvis raskt over. Nå er det bare å trene litt mindre de neste to ukene, og så håper jeg det går bra i Hornindal.&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Ultrabirken 2016</title>
-        <link>https://www.rustad.co/posts/2016-06-11-ultrabirken/</link>
-        <pubDate>Sat, 11 Jun 2016 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2016-06-11-ultrabirken/</guid>
+        <link>https://www.rustad.co/2016/06/11/ultrabirken-2016/</link>
+        <pubDate>Sat, 11 Jun 2016 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2016/06/11/ultrabirken-2016/</guid>
         <description>&lt;p&gt;Starta dagen tidlig med å kjøre fra hytta på Sjusjøen ned til Lillehammer, for så å ta bussen opp igjen. (Ja, det er ikke veldig logisk, men jeg ville heller ha bilen ved mål enn å måtte komme meg opp igjen til Sjusjøen etter løpet.) Vel framme på start var det den vanlige &amp;ldquo;gjøre seg klar&amp;rdquo;-dansen, med sjekke og sjekke igjen at jeg hadde med meg alt jeg skulle i sekken. Dagens vanskeligste avgjørelse var å velge mellom lang og kort trøye. Opprinnelig var planen kort, men når det var 2-3 grader på Sjusjøen på morrakvisten blei det langerma - angra ikke på det etterpå.&lt;/p&gt;
 
 &lt;p&gt;Stilte meg opp i andre rekke i starten, og åpna det jeg følte var ganske kontrollert - var oppe blant de aller fremste i de smale partiene i starten for å slippe noe knot, men så slapp jeg meg ganske lett bakover i feltet til jeg lå som nummer ti oppover mot Sjusjøfjellet. Prøvde å kjøre mitt eget tempo ok la de andre rundt meg løpe som de ville, og var ganske snart i et vakum med to klynger på sånn omtrent fem og tre personer foran meg, og et stykke bakover til nestemann i løypa. Kom greit i gang med å få i meg næring, og lot de foran meg stikke mer eller mindre ut av syne. Etter mellomtidene ser det ut som jeg passerte første mellomtid ved Nevelvatnet (7km) omtrent 1:45 bak tet, og halvminuttet bak gruppa foran meg.&lt;/p&gt;
@@ -675,15 +561,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 &lt;p&gt;Skal jeg kjøre etterpåanalysen ser jeg at det var halvminuttet opp til tredjeplass og halvannet opp til andre, som begge deler kanskje kunne være mulig å ta. Men det er egentlig ikke så veldig farlig - målet før løpet var å kjøre et trygt og sikkert løp, og å ha en bra opplevelse, og der klarte jeg begge deler. Og selvfølgelig å komme inn under 5 timer, som gikk med god margin. Nå gjelder det bare å komme seg skikkelig, og så få inn noen uker med trening før Hornindal rundt om fire uker.&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Ecotrail Oslo 2016</title>
-        <link>https://www.rustad.co/posts/2016-05-22-ecotrail-oslo/</link>
-        <pubDate>Sun, 22 May 2016 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2016-05-22-ecotrail-oslo/</guid>
+        <link>https://www.rustad.co/2016/05/22/ecotrail-oslo-2016/</link>
+        <pubDate>Sun, 22 May 2016 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2016/05/22/ecotrail-oslo-2016/</guid>
         <description>&lt;p&gt;Årets EcoTrail var første ultraløp på ganske lenge - faktisk siden DobbeltTravern i fjor høst. Når jeg ser på kalenderen ser jeg at jeg heller ikke hadden noen turer på over 40km siden den gang, så jeg gikk nok ut i litt mer ukjent terreng enn jeg tenkte på forhånd. Men det får være.&lt;/p&gt;
 
 &lt;p&gt;Jeg stilte opp tidlig, litt for tidlig egentlig (toget jeg hadde tenkt å ta innover hadde problemer, så det blei bil, og jeg fikk altfor lang tid å slå i hjel før start). Når starten gikk var planen &amp;ldquo;Løp så rolig som du bare kan, og ikke bruk krefter før Fossum etter 60km&amp;rdquo;. Det gikk egentlig ganske bra i starten - jeg lå sammen med sambygding Henrik Fleisje som hadde sin ultradebut, og vi tok det relativt rolig oppover langs Akerselva. Litt rart å løpe her igjen nærmere tre år siden vi flytta herfra, men samtidig trygt å være på gamle trakter. Var ikke veldig i tvil om hvor vi skulle, for å si det sånn. Jeg tipper vi passerte Kjelsås på sånn rundt 20. plass, men begynte da å plukke plasser jevnt langsmed Maridalsvannet.&lt;/p&gt;
@@ -703,15 +587,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/583429765&#34;&gt;Lenke til Strava&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Årets første skitur</title>
-        <link>https://www.rustad.co/posts/2016-01-24-skitur/</link>
-        <pubDate>Sun, 24 Jan 2016 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2016-01-24-skitur/</guid>
+        <link>https://www.rustad.co/2016/01/24/%C3%A5rets-f%C3%B8rste-skitur/</link>
+        <pubDate>Sun, 24 Jan 2016 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2016/01/24/%C3%A5rets-f%C3%B8rste-skitur/</guid>
         <description>&lt;p&gt;Årets første egentlige skitur starta etter frokost. Tok på meg skia så og si utafor døra (fordelen med å ikke skulle gå renn lenger er at jeg ikke trenger å være like hyperforsiktig med skia), og sklei ned til skiløypa. Gikk til stasjonen, og begynte å klatre oppover med første mål Råsjøstua.&lt;/p&gt;
 
 &lt;p&gt;Jeg har levd lenge på «teipen» fra det jeg trur er to år sida under skia, og tenkte ikke at det skulle være noe problem i dag heller. I starten gikk det greit, men etter hvert merka jeg godt at i harde løyper var jeg ganske sjanseløs. Gamle trenere kunne sikkert finni veldig mye å slakte i teknikken min også oppover bakkene mot Råsjøen, men det var i hvert fall sikkert at festet ikke var bra nok, så jeg måtte traske en del utafor løypene.&lt;/p&gt;
@@ -734,15 +616,13 @@ Vi starta en tradisjon i fjor med å gå ut og grille i romjula. I år sklei det
 &lt;p&gt;I kveld blei det gliding av ski og påsetting av ny teip, så jeg skal ikke falle i samme fella igjen med det første.&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Dobbelttravern 2015</title>
-        <link>https://www.rustad.co/posts/2015-09-07-dobbelttravern/</link>
-        <pubDate>Mon, 07 Sep 2015 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2015-09-07-dobbelttravern/</guid>
+        <link>https://www.rustad.co/2015/09/07/dobbelttravern-2015/</link>
+        <pubDate>Mon, 07 Sep 2015 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2015/09/07/dobbelttravern-2015/</guid>
         <description>&lt;p&gt;Det begynner å bli ei stund siden forrige gang jeg løp et ultraløp. Faktisk helt siden Hornindal Rundt i fjor sommer. Riktignok starta jeg på Telemarks Tøffaste i fjor, hvor jeg ga meg halvveis uten å være motivert til å løpe noe lengre, og var påmeldt 50-kilometeren i Nordmarka Ultra Challenge samme høst, men der meldte jeg forfall etter å ha hatt spysjuke før i uka. Jeg var egentlig ikke sikker på om jeg skulle stille opp i noen løp i år, og var egentlig ganske fornøyd med å kunne ta meg noen langturer nå og da.&lt;/p&gt;
 
 &lt;p&gt;Men hvis jeg skal ha noen planer om å løpe noen gode løp etter hvert, er det myhe som må på plass. Ikke minst må jeg få orden på næringsinntaket, og få litt sjøltillit. Så når det viste seg at Nordmarkstraver-helga lå der ledig uten noen familieforpliktelser, var det fristende å prøve seg på det jeg ser på som er lavterskel-ultraløp, hvis det er lov å snakke om ultraløp på den måten. Ikke lengre unna enn at jeg kan sove hjemme og komme hjem til middag, og ikke lengre løp enn at det går greit uten å bekymre seg altfor mye for om jeg skulle klare å fullføre på en grei måte. Selv uten et helt ekstremt treningsgrunnlag.&lt;/p&gt;
@@ -777,15 +657,13 @@ Foto: Runar Gilberg, Kondis&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/385400085&#34;&gt;Strava-link&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Mølletrim</title>
-        <link>https://www.rustad.co/posts/2015-08-25-molletrim/</link>
-        <pubDate>Tue, 25 Aug 2015 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2015-08-25-molletrim/</guid>
+        <link>https://www.rustad.co/2015/08/25/m%C3%B8lletrim/</link>
+        <pubDate>Tue, 25 Aug 2015 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2015/08/25/m%C3%B8lletrim/</guid>
         <description>&lt;p&gt;Noen ganger er det fristende å dra ut. I dag var ikke en sånn dag. Jeg er kanskje for bortskjemt med godvær, men når det bøtta ned ute var det mer fristende å ta løpeturen på mølla.&lt;/p&gt;
 
 &lt;p&gt;Økta var ikke akkurat planlagt, så jeg plukka opp en lapp fra i vår hvor det sto omtrent sånn her:&lt;/p&gt;
@@ -803,30 +681,26 @@ Foto: Runar Gilberg, Kondis&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/377288596&#34;&gt;Link til Strava&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
-      
     
-      
       <item>
         <title>Hjem fra Rustad</title>
-        <link>https://www.rustad.co/posts/2015-08-23-hjem-fra-rustad/</link>
-        <pubDate>Sun, 23 Aug 2015 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2015-08-23-hjem-fra-rustad/</guid>
+        <link>https://www.rustad.co/2015/08/23/hjem-fra-rustad/</link>
+        <pubDate>Sun, 23 Aug 2015 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2015/08/23/hjem-fra-rustad/</guid>
         <description>&lt;p&gt;Vi hadde tilbrakt dagen på Åpen Gård på Hønsi i Gjerdrum, til Einars store glede. Is var blitt spist, og etter grilling på terassen på Rustad og mye knappetelling snørte jeg på meg løpeskoa og satte kursen hjemover til fots. Det er litt deilig å løpe med et så konkret mål, å skulle hjem.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.rustad.co/img/2015-08-23_001.jpg&#34; alt=&#34;Kveldsstemning ved Damsortungen&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/377288675&#34;&gt;Link til Strava&lt;/a&gt;&lt;/p&gt;</description>
       </item>
-      
     
-      
       <item>
         <title>Tur til Storronden</title>
-        <link>https://www.rustad.co/posts/2015-07-25-storronden/</link>
-        <pubDate>Sat, 25 Jul 2015 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2015-07-25-storronden/</guid>
+        <link>https://www.rustad.co/2015/07/25/tur-til-storronden/</link>
+        <pubDate>Sat, 25 Jul 2015 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2015/07/25/tur-til-storronden/</guid>
         <description>&lt;p&gt;Etter et par dager med oppsetting av panel på hytta til Liv og Steinar i Sør-Fron var vi såpass ferdige at vi med ganske god samvittighet satte oss i bilen på morran og kjørte nordover til Mysuseter og etter hvert Spranget. Værvarselet meldte om bra vær på formiddagen, skya utpå dagen, og muligheter for rein på kvelden (men da hadde vi uansett tenkt å være hjemme igjen). Vi hadde planer om å nå Storronden, som ville bli min første 2000m-topp. (Selv om begge mine foreldre stort sett er overbevist om at jeg i hvertfall har vært på Galdhøpiggen.)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.rustad.co/img/2015-07-25_009.jpg&#34; alt=&#34;Jeg med sekk på veien mot Rondvassbu fra Spranget&#34; /&gt;&lt;/p&gt;
@@ -867,15 +741,13 @@ Foto: Runar Gilberg, Kondis&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/358008848&#34;&gt;Link til Strava&lt;/a&gt; (Jeg satte klokka mi i &amp;lsquo;Ultra-Trac&amp;rsquo;-modus, som betyr at den bare lagrer ett datapunkt hvert minutt. Strava blir fullstendig forvirra av det, så ikke se på så mye annet enn ruta og hvor langt vi gikk.)&lt;/p&gt;</description>
       </item>
-      
     
-      
       <item>
         <title>Langtur på Norefjell</title>
-        <link>https://www.rustad.co/posts/2015-07-19-norefjell/</link>
-        <pubDate>Sun, 19 Jul 2015 22:00:00 +0200</pubDate>
-        <author> (Simen Rustad)</author>
-        <guid>https://www.rustad.co/posts/2015-07-19-norefjell/</guid>
+        <link>https://www.rustad.co/2015/07/19/langtur-p%C3%A5-norefjell/</link>
+        <pubDate>Sun, 19 Jul 2015 00:00:00 UTC</pubDate>
+        <author>Simen Ellingsen Rustad</author>
+        <guid>https://www.rustad.co/2015/07/19/langtur-p%C3%A5-norefjell/</guid>
         <description>&lt;p&gt;Jeg hadde fått søndagsfri, og tok Fabia&amp;rsquo;n fra Harestua rett etter en tidlig frokost. (Einar er ikke blant dem som ligger og drar seg til langt på dag.) Veien gikk forbi Hønefoss og Sokna til Norefjell, hvor jeg parkerte på Skistua, samme sted som sist jeg var her. Da var målet å plukke topper, mens jeg denne gangen hadde sett meg ut ei rute mest på rødmerka stier, og håpa å komme litt lenger nordvest på Norefjell.&lt;/p&gt;
 
 &lt;p&gt;Kom av gårde fra parkeringa klokka ni, og det gikk sikkert litt for hardt opp slalombakkene, men jeg kunne jo ikke begynne å gå når jeg passerte de eneste turgåerne jeg så før Høgevarde?&lt;/p&gt;
@@ -902,7 +774,7 @@ Foto: Runar Gilberg, Kondis&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.strava.com/activities/349725074&#34;&gt;Link til Strava&lt;/a&gt;&lt;/p&gt;</description>
       </item>
-      
     
+
   </channel>
 </rss>

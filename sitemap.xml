@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.rustad.co/</loc>
+    <lastmod>2019-11-01T17:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rustad.co/microposts/2019-11-01t1829/</loc>
     <lastmod>2019-11-01T17:29:00+00:00</lastmod>
   </url>
@@ -14,35 +20,29 @@
   </url>
   
   <url>
-    <loc>https://www.rustad.co/</loc>
-    <lastmod>2019-11-01T17:29:00+00:00</lastmod>
+    <loc>https://www.rustad.co/2018/08/06/jotunheimen-med-eirik/</loc>
+    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/post/</loc>
+    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rustad.co/posts/2018-08-06-jotunheimen/</loc>
-    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
+    <loc>https://www.rustad.co/2018/07/09/bok-the-wizard-and-the-prophet/</loc>
+    <lastmod>2018-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rustad.co/posts/</loc>
-    <lastmod>2018-08-06T12:44:14+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.rustad.co/2018/06/01/hjemmetid/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rustad.co/posts/2018-07-09-the-wizard-and-the-prophet/</loc>
-    <lastmod>2018-07-09T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2018-06-01-hjemmetid/</loc>
-    <lastmod>2018-06-01T15:54:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2018-05-21-smve2018/</loc>
-    <lastmod>2018-05-25T20:00:00+02:00</lastmod>
+    <loc>https://www.rustad.co/2018/05/25/soria-moria-til-verden-ende-2018-dnf/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -56,8 +56,8 @@
   </url>
   
   <url>
-    <loc>https://www.rustad.co/posts/2018-01-02-grilling/</loc>
-    <lastmod>2018-01-02T07:27:48+01:00</lastmod>
+    <loc>https://www.rustad.co/2018/01/02/grilling/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -81,92 +81,62 @@
   </url>
   
   <url>
+    <loc>https://www.rustad.co/2017/10/08/skogtur-i-h%C3%B8stv%C3%A6r/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2017/03/23/vinterferie/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2016/06/26/romeriks%C3%A5sen-p%C3%A5-langs/</loc>
+    <lastmod>2016-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2016/06/11/ultrabirken-2016/</loc>
+    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2016/05/22/ecotrail-oslo-2016/</loc>
+    <lastmod>2016-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2016/01/24/%C3%A5rets-f%C3%B8rste-skitur/</loc>
+    <lastmod>2016-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2015/09/07/dobbelttravern-2015/</loc>
+    <lastmod>2015-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2015/08/25/m%C3%B8lletrim/</loc>
+    <lastmod>2015-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2015/08/23/hjem-fra-rustad/</loc>
+    <lastmod>2015-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2015/07/25/tur-til-storronden/</loc>
+    <lastmod>2015-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2015/07/19/langtur-p%C3%A5-norefjell/</loc>
+    <lastmod>2015-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rustad.co/categories/</loc>
-    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2017-10-08-skogtur/</loc>
-    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/categories/foto/</loc>
-    <lastmod>2017-10-08T18:45:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2017-03-23-vinterferie/</loc>
-    <lastmod>2017-03-23T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2016-06-26-romeriksasen-pa-langs/</loc>
-    <lastmod>2016-06-26T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/categories/l%C3%B8p/</loc>
-    <lastmod>2016-06-26T22:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2016-06-11-ultrabirken/</loc>
-    <lastmod>2016-06-11T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2016-05-22-ecotrail-oslo/</loc>
-    <lastmod>2016-05-22T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/categories/trening/</loc>
-    <lastmod>2016-01-24T22:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2016-01-24-skitur/</loc>
-    <lastmod>2016-01-24T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2015-09-07-dobbelttravern/</loc>
-    <lastmod>2015-09-07T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2015-08-25-molletrim/</loc>
-    <lastmod>2015-08-25T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2015-08-23-hjem-fra-rustad/</loc>
-    <lastmod>2015-08-23T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2015-07-25-storronden/</loc>
-    <lastmod>2015-07-25T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/categories/tur/</loc>
-    <lastmod>2015-07-25T22:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/posts/2015-07-19-norefjell/</loc>
-    <lastmod>2015-07-19T22:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/series/</loc>
     <priority>0</priority>
   </url>
   
