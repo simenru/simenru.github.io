@@ -409,6 +409,7 @@ a.pagination-item:hover {
 figure img {
   left: calc(-35vw + 50%);
   width: 70vw;
+  max-width: none;
   position: relative;
 }
 
