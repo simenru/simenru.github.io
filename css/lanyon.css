@@ -406,19 +406,11 @@ a.pagination-item:hover {
   }
 }
 
-figure {
-  width: 100vw;
-  left: calc(-50vw + 50%);
-  position: relative;
-}
-
 figure img {
+  width: 90vw;
+  left: calc(-45vw + 50%);
+  position: relative;
   max-width: 90vw;
-  max-height: 90vh;
-}
-
-figure figcaption {
-  margin-left: 1em;
 }
 
 /*
