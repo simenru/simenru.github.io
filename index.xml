@@ -16,6 +16,14 @@
         <guid>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</guid>
         <description>&lt;p&gt;Også kjent som &amp;ldquo;Hvor var Simen i 2019?&amp;rdquo;&lt;/p&gt;
 
+&lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;I tillegg var det en del turer utenfor &amp;ldquo;kjerneområdet&amp;rdquo;, men det blir ikke så veldig oversiktlig på et slikt kart.&lt;/p&gt;
+
+&lt;p&gt;Hvis jeg skal tro på &lt;a href=&#34;https://www.strava.com&#34;&gt;Strava&lt;/a&gt; hadde jeg totalt 246 timer med aktiviteter i 2019, absolutt mesteparten (2136km på 188 timer) løping. Har egentlig ikke noe forhold til om det er mye eller lite - det bare &amp;ldquo;er&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Jeg deltok i tre konkurranser: Oppdalskarusellen &lt;a href=&#34;https://www.strava.com/activities/2454716112&#34;&gt;løp 2&lt;/a&gt; (&lt;a href=&#34;https://www.webscorer.com/racealldetails?raceid=185025&#34;&gt;resultater&lt;/a&gt;) og &lt;a href=&#34;https://www.strava.com/activities/2473867343&#34;&gt;løp 3&lt;/a&gt; (&lt;a href=&#34;https://www.webscorer.com/racealldetails?raceid=185885&#34;&gt;resultater&lt;/a&gt;), og &lt;a href=&#34;https://www.strava.com/activities/2626420581&#34;&gt;Ringeriksmaraton&lt;/a&gt; (&lt;a href=&#34;http://live.ultimate.dk/desktop/front/index.php?eventid=4489&amp;amp;language=no&#34;&gt;resultater&lt;/a&gt;). Jeg bør kanskje ha som mål å stille på noen flere løp neste år? Tenker allerede på muligheten for å få inn et halvmaraton på vårparten.&lt;/p&gt;
+
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://www.rustad.co/js/Polyline.encoded.js&#34;&gt;&lt;/script&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css&#34; /&gt;
@@ -23,12 +31,14 @@
 &lt;style&gt;
     #map {
         /* configure the size of the map */
-        width: 100%;
-        height: 80vh;
+        width: 90vw;
+        left: calc(-45vw + 50%);
+        position: relative;
+        max-width: 90vw;
     }
 &lt;/style&gt;
 
-&lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
+
 
 &lt;script&gt;
       // initialize Leaflet

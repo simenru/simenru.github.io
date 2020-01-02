@@ -17,7 +17,9 @@
       
       <guid>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</guid>
       <description>Også kjent som &amp;ldquo;Hvor var Simen i 2019?&amp;rdquo;
-   #map { /* configure the size of the map */ width: 100%; height: 80vh; }    // initialize Leaflet var map = L.map(&#39;map&#39;).setView({lon: 10.8, lat: 60.15}, 10); // add the OpenStreetMap tiles L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, { maxZoom: 19, attribution: &#39;&amp;copy; OpenStreetMap contributors&#39; }).addTo(map); // show the scale bar on the lower left corner L.control.scale().addTo(map); // show a marker on the map var polylines = [ &#39;oqonJcxl`AGxLF|AUvDv@nFDvNHl@^p@t@SlCr@dBMXXXv@DdCt@pB|Cl@l@jEVt@Mz@KlEtAtOx@nCnC`Fp@dBl@vBlAdG`@|@hC`A~AbBj@X`EhAzAIhAa@vC|At@iAtAq@fC_@vAu@lCuCh@cAf@_@zAyB`CQvCuDpHyCvDmA|BO~CdB~H_@zAr@vEtElA\\tBjB~CzEtC|Ev@vBxCtEXbBLdCbAtBjLfCrGtBfBTlB~@pDb@nAtA?</description>
+ I tillegg var det en del turer utenfor &amp;ldquo;kjerneområdet&amp;rdquo;, men det blir ikke så veldig oversiktlig på et slikt kart.
+Hvis jeg skal tro på Strava hadde jeg totalt 246 timer med aktiviteter i 2019, absolutt mesteparten (2136km på 188 timer) løping. Har egentlig ikke noe forhold til om det er mye eller lite - det bare &amp;ldquo;er&amp;rdquo;.
+Jeg deltok i tre konkurranser: Oppdalskarusellen løp 2 (resultater) og løp 3 (resultater), og Ringeriksmaraton (resultater).</description>
     </item>
     
     <item>
