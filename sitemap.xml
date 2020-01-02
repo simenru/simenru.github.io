@@ -4,8 +4,19 @@
   
   <url>
     <loc>https://www.rustad.co/</loc>
-    <lastmod>2019-11-01T17:29:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/post/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,12 +33,6 @@
   <url>
     <loc>https://www.rustad.co/2018/08/06/jotunheimen-med-eirik/</loc>
     <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rustad.co/post/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

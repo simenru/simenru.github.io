@@ -5,10 +5,20 @@
     <link>https://www.rustad.co/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rustad.co/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Treningsoppsummering 2019</title>
+      <link>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</guid>
+      <description>Også kjent som &amp;ldquo;Hvor var Simen i 2019?&amp;rdquo;
+   #map { /* configure the size of the map */ width: 80%; height: 80%; }    // initialize Leaflet var map = L.map(&#39;map&#39;).setView({lon: 10.8, lat: 60.15}, 10); // add the OpenStreetMap tiles L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, { maxZoom: 19, attribution: &#39;&amp;copy; OpenStreetMap contributors&#39; }).addTo(map); // show the scale bar on the lower left corner L.control.scale().addTo(map); // show a marker on the map var polylines = [ &#39;oqonJcxl`AGxLF|AUvDv@nFDvNHl@^p@t@SlCr@dBMXXXv@DdCt@pB|Cl@l@jEVt@Mz@KlEtAtOx@nCnC`Fp@dBl@vBlAdG`@|@hC`A~AbBj@X`EhAzAIhAa@vC|At@iAtAq@fC_@vAu@lCuCh@cAf@_@zAyB`CQvCuDpHyCvDmA|BO~CdB~H_@zAr@vEtElA\\tBjB~CzEtC|Ev@vBxCtEXbBLdCbAtBjLfCrGtBfBTlB~@pDb@nAtA?</description>
+    </item>
     
     <item>
       <title>Jotunheimen med Eirik</title>
