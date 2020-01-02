@@ -23,8 +23,8 @@
 &lt;style&gt;
     #map {
         /* configure the size of the map */
-        width: 80%;
-        height: 80%;
+        width: 100%;
+        height: 80vh;
     }
 &lt;/style&gt;
 
