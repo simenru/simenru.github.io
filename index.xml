@@ -16,9 +16,9 @@
         <guid>https://www.rustad.co/2020/01/01/treningsoppsummering-2019/</guid>
         <description>&lt;p&gt;Også kjent som &amp;ldquo;Hvor var Simen i 2019?&amp;rdquo;&lt;/p&gt;
 
-&lt;script src=&#34;http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;Polyline.encoded.js&#34;&gt;&lt;/script&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css&#34; /&gt;
+&lt;script src=&#34;https://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.rustad.co/js/Polyline.encoded.js&#34;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css&#34; /&gt;
 
 &lt;style&gt;
     #map {
