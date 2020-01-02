@@ -35,6 +35,7 @@
         left: calc(-45vw + 50%);
         position: relative;
         max-width: 90vw;
+        height: 60vh
     }
 &lt;/style&gt;
 
